@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CLEAR                   30E2
+//	CONVERT                 30DB
+//	DIV                     3040
+//	DIVDR                   30E0
+//	DIVRES                  30AF
+//	INPUT1                  30DC
+//	INPUT2                  30DD
+//	LOOP                    3027
+//	LOOP2                   3047
+//	MUL                     3023
+//	MULTDR                  30DF
+//	MULTRES                 3095
+//	PLOOP                   3035
+//	POS48                   30DA
+//	PRINT2                  3034
+//	PROMPT                  305B
+//	REMNDR                  30E1
+//	REMRES                  30C3
+//	START                   3000
+//	SUBDR                   30DE
+//	SUBRES                  307E

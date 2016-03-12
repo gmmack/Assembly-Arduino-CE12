@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	GREETING                3011
+//	NEWLINE                 306C
+//	START                   3000
+//	USERINPUT               3072
+//	USERSTRING              3048
